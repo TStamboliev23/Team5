@@ -7,7 +7,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc016e3-0d8f-4977-912b-e4361a2049c1" name="Changes" comment="" />
+    <list default="true" id="ccc016e3-0d8f-4977-912b-e4361a2049c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SchoolLibrary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SchoolLibrary/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/SchoolLibrary.ConsoleApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/SchoolLibrary.ConsoleApp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Data/SchoolLibrary.Data.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Data/SchoolLibrary.Data.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Data/obj/Debug/net9.0/SchoolLibrary.Data.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Data/obj/Debug/net9.0/SchoolLibrary.Data.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Data/obj/Debug/net9.0/SchoolLibrary.Data.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Data/obj/Debug/net9.0/SchoolLibrary.Data.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Data/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Data/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Services/obj/Debug/net9.0/SchoolLibrary.Services.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Services/obj/Debug/net9.0/SchoolLibrary.Services.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Services/obj/Debug/net9.0/SchoolLibrary.Services.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Services/obj/Debug/net9.0/SchoolLibrary.Services.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Services/obj/Debug/net9.0/SchoolLibrary.Services.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Services/obj/Debug/net9.0/SchoolLibrary.Services.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Services/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Services/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/rider.project.model.nuget.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,21 +54,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.SchoolLibrary.ConsoleApp.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.SchoolLibrary.ConsoleApp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="SchoolLibrary.ConsoleApp" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -94,6 +115,7 @@
       <workItem from="1794986780776" duration="28000" />
       <workItem from="1795592230912" duration="106000" />
       <workItem from="1795592504770" duration="50000" />
+      <workItem from="1795596326563" duration="594000" />
     </task>
     <servers />
   </component>
