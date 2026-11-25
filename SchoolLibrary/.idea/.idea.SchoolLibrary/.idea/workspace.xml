@@ -9,24 +9,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ccc016e3-0d8f-4977-912b-e4361a2049c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SchoolLibrary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SchoolLibrary/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/SchoolLibrary.ConsoleApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/SchoolLibrary.ConsoleApp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/Debug/net9.0/SchoolLibrary.ConsoleApp.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.ConsoleApp/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Data/SchoolLibrary.Data.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Data/SchoolLibrary.Data.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Data/obj/Debug/net9.0/SchoolLibrary.Data.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Data/obj/Debug/net9.0/SchoolLibrary.Data.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Data/obj/Debug/net9.0/SchoolLibrary.Data.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Data/obj/Debug/net9.0/SchoolLibrary.Data.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Data/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Data/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Services/obj/Debug/net9.0/SchoolLibrary.Services.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Services/obj/Debug/net9.0/SchoolLibrary.Services.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Services/obj/Debug/net9.0/SchoolLibrary.Services.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Services/obj/Debug/net9.0/SchoolLibrary.Services.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Services/obj/Debug/net9.0/SchoolLibrary.Services.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Services/obj/Debug/net9.0/SchoolLibrary.Services.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Services/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Services/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/Debug/net9.0/SchoolLibrary.Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolLibrary.Tests/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +103,7 @@
       <workItem from="1795592230912" duration="106000" />
       <workItem from="1795592504770" duration="50000" />
       <workItem from="1795596326563" duration="594000" />
+      <workItem from="1795597015544" duration="461000" />
     </task>
     <servers />
   </component>

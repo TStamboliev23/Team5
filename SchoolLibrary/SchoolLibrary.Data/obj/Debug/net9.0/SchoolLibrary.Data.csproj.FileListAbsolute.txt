@@ -67,3 +67,4 @@ H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.dl
 H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\refint\SchoolLibrary.Data.dll
 H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.pdb
 H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\ref\SchoolLibrary.Data.dll
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.csproj.AssemblyReference.cache
