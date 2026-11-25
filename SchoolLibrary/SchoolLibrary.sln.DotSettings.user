@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1df0ff99_002D7cd4_002D4ceb_002Dabf4_002D41a913979271/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BorrowBook_WhenBookIsAlreadyBorrowed_ReturnsMessage #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::441AB0BC-FC44-47B5-A64A-8EF91CDAF797::net9.0::SchoolLibrary.Tests.BookServiceTests.BorrowBook_WhenBookIsAlreadyBorrowed_ReturnsMessage&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f6a40970_002Dd919_002D4efe_002D8883_002Dae089c987638/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BorrowBook_WhenBookIsAlreadyBorrowed_ReturnsMessage" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::441AB0BC-FC44-47B5-A64A-8EF91CDAF797::net9.0::SchoolLibrary.Tests.BookServiceTests.BorrowBook_WhenBookIsAlreadyBorrowed_ReturnsMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::441AB0BC-FC44-47B5-A64A-8EF91CDAF797::net9.0::SchoolLibrary.Tests.BookServiceTests.BorrowBook_WhenBookDoesNotExist_ReturnsNotFoundMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::441AB0BC-FC44-47B5-A64A-8EF91CDAF797::net9.0::SchoolLibrary.Tests.BookServiceTests.ReturnBook_WhenBookIsReturned_MakesItAvailableAgain&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

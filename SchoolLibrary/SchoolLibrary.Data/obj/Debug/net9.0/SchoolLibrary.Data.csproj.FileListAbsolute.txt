@@ -1,0 +1,69 @@
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.deps.json
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.pdb
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.AssemblyInfoInputs.cache
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.AssemblyInfo.cs
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.csproj.CoreCompileInputs.cache
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\refint\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.pdb
+C:\Users\RISpasov23\RiderProjects\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\ref\SchoolLibrary.Data.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.deps.json
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.pdb
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.AssemblyInfoInputs.cache
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.AssemblyInfo.cs
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.csproj.CoreCompileInputs.cache
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.sourcelink.json
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\refint\SchoolLibrary.Data.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.pdb
+H:\11-v-student-work\Students\Rumen Spasov\Project\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\ref\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.deps.json
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.pdb
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.AssemblyInfoInputs.cache
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.AssemblyInfo.cs
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.csproj.CoreCompileInputs.cache
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\refint\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.pdb
+C:\Users\RISpasov23\Solution\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\ref\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\Solution\11-11-2026\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.deps.json
+C:\Users\RISpasov23\Solution\11-11-2026\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\Solution\11-11-2026\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.pdb
+C:\Users\RISpasov23\Solution\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RISpasov23\Solution\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.AssemblyInfoInputs.cache
+C:\Users\RISpasov23\Solution\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.AssemblyInfo.cs
+C:\Users\RISpasov23\Solution\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.csproj.CoreCompileInputs.cache
+C:\Users\RISpasov23\Solution\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\Solution\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\refint\SchoolLibrary.Data.dll
+C:\Users\RISpasov23\Solution\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.pdb
+C:\Users\RISpasov23\Solution\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\ref\SchoolLibrary.Data.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\11-11-2026\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.deps.json
+H:\11-v-student-work\Students\Rumen Spasov\Project\11-11-2026\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\11-11-2026\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.pdb
+H:\11-v-student-work\Students\Rumen Spasov\Project\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\11-v-student-work\Students\Rumen Spasov\Project\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.AssemblyInfoInputs.cache
+H:\11-v-student-work\Students\Rumen Spasov\Project\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.AssemblyInfo.cs
+H:\11-v-student-work\Students\Rumen Spasov\Project\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.csproj.CoreCompileInputs.cache
+H:\11-v-student-work\Students\Rumen Spasov\Project\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.sourcelink.json
+H:\11-v-student-work\Students\Rumen Spasov\Project\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\refint\SchoolLibrary.Data.dll
+H:\11-v-student-work\Students\Rumen Spasov\Project\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.pdb
+H:\11-v-student-work\Students\Rumen Spasov\Project\11-11-2026\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\ref\SchoolLibrary.Data.dll
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.deps.json
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.dll
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\bin\Debug\net9.0\SchoolLibrary.Data.pdb
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.GeneratedMSBuildEditorConfig.editorconfig
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.AssemblyInfoInputs.cache
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.AssemblyInfo.cs
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.csproj.CoreCompileInputs.cache
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.sourcelink.json
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.dll
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\refint\SchoolLibrary.Data.dll
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\SchoolLibrary.Data.pdb
+H:\Team5\SchoolLibrary\SchoolLibrary.Data\obj\Debug\net9.0\ref\SchoolLibrary.Data.dll
